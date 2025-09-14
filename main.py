@@ -118,7 +118,7 @@ def init():
     loadUsersData()
     root = tk.Tk()
     root.geometry("800x600")
-    root.title("БАНКУЕМ ЁПТА")
+    root.title("ишак тише тише")
     showLoginFrame()
     root.mainloop()
 
